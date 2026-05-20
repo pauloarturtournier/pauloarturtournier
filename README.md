@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 ---
-
+<div align="center">
 ## 🛠️ Tecnologias
 
 ### 🎨 Front-End
@@ -42,6 +42,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,powershell" />
 </p>
+</div>
 ---
 
 
