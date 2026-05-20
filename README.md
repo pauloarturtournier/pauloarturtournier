@@ -24,8 +24,13 @@
   <a href="https://instagram.com/paulo_artur08">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
 ---
+
+
+
 <div align="center">
+
 ## 🛠️ Tecnologias
 
 ### 🎨 Front-End
