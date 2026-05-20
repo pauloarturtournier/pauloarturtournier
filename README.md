@@ -1,17 +1,16 @@
 <h1 align="center">👋 olá, eu sou Paulo</h1>
 
 <p align="center">
-  💻 Desenvolvedor • 🎵 Música • ⚡ Tecnologia
+  💻 Desenvolvedor
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🔥 Curto programação e interfaces bonitas
-- 🎧 Projetos inspirados no Spotify/UI moderna
-- 🐍 Estudando Python, Tkinter, React e SQL
-- ⚡ Sempre tentando deixar tudo mais estiloso
+- 🔥 programadot back e front end
+- 🐍 Estudando Python, java, javaScript, mySql, Tkinter, C++ e C#
+- ⚡ Disposto sempre a aprender mais
 
 ---
 
@@ -22,15 +21,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/pauloarturtournier">
+  <a href="https://instagram.com/paulo_artur08">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
-  <a href="https://discord.com/users/pauloarturtournier">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tecnologias
@@ -56,12 +49,3 @@
 
 
 
-## 🧠 Vida
-
-```js
-while(alive){
-   eat();
-   code();
-   sleep();
-   repeat();
-}
