@@ -28,12 +28,20 @@
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,mysql,git,vscode" />
-
+### 🎨 Front-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,npm" />
 </p>
 
+### ⚙️ Back-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,cpp,cs,php" />
+</p>
+
+### 🧰 Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,powershell" />
+</p>
 ---
 
 
