@@ -1,7 +1,7 @@
 <h1 align="center">👋 olá, eu sou Paulo</h1>
 
 <p align="center">
-  💻 Desenvolvedor
+  💻 Desenvolvedor de Software
 </p>
 
 ---
